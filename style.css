@@ -1,0 +1,36 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    background-image: url(bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    backdrop-filter: blur(6px);
+    background-position: center;
+}
+
+
+
+.inside{
+    max-width: 1400px;
+    margin: auto;
+    margin-top: -10px;
+}
+
+
+.box{
+    margin-top: 80px;
+    margin-bottom: 80px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+    video {
+        width: 100%;
+    }
+    img {
+        width: 100%;
+    }
